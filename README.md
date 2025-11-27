@@ -66,7 +66,11 @@ python <filename>.py
 Open the Gradio link in the browser.
 
 ---
+## Demo
+[![HF Space](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-lg.svg)](https://huggingface.co/spaces/xramz/FAQChatbot)
 
+
+----
 ## Query Flow
 
 ```
@@ -78,6 +82,10 @@ User Query
    → Cross-Encoder Rerank  
    → Chatbot Answer (Top Clause)
 ```
+## Retrieval Pipeline Diagram
+
+![Retrieval Pipeline](images.svg)
+
 ---
 
 ## File Requirements
@@ -97,5 +105,6 @@ User Query
 
 ---
  
+
 
 
