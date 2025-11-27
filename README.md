@@ -57,12 +57,6 @@ Run:
 python app.py
 ```
 
-or if this file *is* the script:
-
-```bash
-python <filename>.py
-```
-
 Open the Gradio link in the browser.
 
 ---
@@ -105,6 +99,7 @@ User Query
 
 ---
  
+
 
 
 
