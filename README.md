@@ -1,5 +1,4 @@
-Here is a **clean, short, professional README** written specifically for the exact code you provided:
-
+ 
 ---
 
 # Contract Clause Search Chatbot
@@ -99,3 +98,4 @@ User Query
 
 ---
  
+
