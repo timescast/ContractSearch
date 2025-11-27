@@ -95,10 +95,11 @@ User Query
 * Highly accurate reranking
 * Interactive Gradio chatbot
 * Ability to view intermediate retrieval stage results
-* Preset sample queries
+
 
 ---
  
+
 
 
 
